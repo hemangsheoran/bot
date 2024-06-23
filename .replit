@@ -8,6 +8,8 @@ run = ["sh", "-c", "node index.js"]
 
 [[ports]]
 localPort = 5000
+externalPort = 3002
 
 [[ports]]
 localPort = 8000
+externalPort = 5000
