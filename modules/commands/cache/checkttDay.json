@@ -4,19 +4,24 @@
             "user": {
                 "61556225219585": {
                     "yesterDay": 0,
-                    "today": 2,
-                    "weekday": 2
+                    "today": 1,
+                    "weekday": 1
+                },
+                "61552652759021": {
+                    "yesterDay": 0,
+                    "today": 1,
+                    "weekday": 1
                 }
             }
         }
     },
-    "5613578818728955": {
+    "7057726640983961": {
         "0": {
             "user": {
                 "100048784668869": {
                     "yesterDay": 0,
-                    "today": 3,
-                    "weekday": 3
+                    "today": 1,
+                    "weekday": 1
                 }
             }
         }
